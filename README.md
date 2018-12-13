@@ -1,1 +1,11 @@
-# prod
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Paragraphes</title>
+    </head>
+
+    <body>
+        <p>Bonjour et bienvenue sur mon site !</p>
+    </body>
+</html>
